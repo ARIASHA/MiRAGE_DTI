@@ -1,6 +1,6 @@
 # MiRAGE_DTI
 ## Overview
-This repository contains the code and datasets used in our research paper([MiRAGE-DTI: A novel approach for drug–target interaction prediction by integrating drug and target similarity metrics](https://www.sciencedirect.com/science/article/abs/pii/S0010482525006006))). The project focuses on drug-target interaction (DTI) prediction using similarity-based methods and feature selection techniques.
+This repository contains the code and datasets used in our research paper([MiRAGE-DTI: A novel approach for drug–target interaction prediction by integrating drug and target similarity metrics](https://www.sciencedirect.com/science/article/abs/pii/S0010482525006006)). The project focuses on drug-target interaction (DTI) prediction using similarity-based methods and feature selection techniques.
 
 We provide:
 
